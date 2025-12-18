@@ -21,7 +21,7 @@
     "@ag-ui/core": "^0.0.42",
     "@ag-ui/encoder": "^0.0.42",
     "@ag-ui/langgraph": "^0.0.21",
-    "@ag-ui/mastra": "^0.2.0",
+    "@ag-ui/mastra": "^0.2.1-beta.1",
     "@ag-ui/proto": "^0.0.42",
     "@copilotkit/runtime": "^1.50.1",
     "@mastra/core": "^0.24.8",
